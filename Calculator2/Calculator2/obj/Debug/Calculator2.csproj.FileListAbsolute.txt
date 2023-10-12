@@ -1,0 +1,11 @@
+D:\Tidus Nixon\C#\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+D:\Tidus Nixon\C#\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+D:\Tidus Nixon\C#\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+D:\Tidus Nixon\C#\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.AssemblyReference.cache
+D:\Tidus Nixon\C#\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.SuggestedBindingRedirects.cache
+D:\Tidus Nixon\C#\Calculator2\Calculator2\obj\Debug\Calculator2.Form1.resources
+D:\Tidus Nixon\C#\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+D:\Tidus Nixon\C#\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+D:\Tidus Nixon\C#\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+D:\Tidus Nixon\C#\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+D:\Tidus Nixon\C#\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
